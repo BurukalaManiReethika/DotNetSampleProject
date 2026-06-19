@@ -2,7 +2,7 @@
 
 A clean, lightweight **ASP.NET Core Web API** built with **.NET 8**, demonstrating modern backend architecture with full CRUD operations, dependency injection, and Swagger documentation — containerized with Docker and deployed live on Render.
 
-🔗 **Live Demo:** [https://dotnetsampleproject-3.onrender.com/swagger](https://dotnetsampleproject-3.onrender.com/swagger)
+🔗 **Live Demo:** https://dotnetsampleproject-3.onrender.com/swagger/index.html
 
 ---
 
